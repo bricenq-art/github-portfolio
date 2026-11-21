@@ -1,0 +1,1 @@
+Add a professional photograph as profile.jpg and update index.html to display it.
