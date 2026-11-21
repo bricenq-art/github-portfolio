@@ -99,6 +99,7 @@ These reports are included in this repository.
 Bachelor of Science in Computer Science  
 Lamar University  
 Expected Graduation: December 2026
-www.linkedin.com/in/bricen-quebedeaux-039b7333b
+
+**linkedin:** www.linkedin.com/in/bricen-quebedeaux-039b7333b
 
 **GitHub:** https://github.com/bricenq-art
