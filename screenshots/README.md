@@ -1,1 +1,1 @@
-Add actual screenshots of running projects here; do not use fabricated screenshots.
+Add actual screenshots of running projects here
